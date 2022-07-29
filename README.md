@@ -8,8 +8,8 @@ Skilled at visualizing and analyzing data, building Machine learning models and 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sathurthi0216@gmail.com](mailto:sathurthi0216@gmail.com)
-* 🧠  I'm learning Data Science & Business Analyst
-* 🤝  I'm open to collaborating on Data Analysing
+* 🧠  I'm learning Data Science & Business Analytics
+* 🤝  I'm open to collaborate on Data Analysis.
 
 ### Skills
 
