@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sathurthika M 👋</h1>
+<h1 align="center">Hi, I'm Sathurthika M </h1>
 
 <h3 align="center">Data Analyst | Python · SQL · Power BI · Machine Learning | Chennai, India</h3>
 
